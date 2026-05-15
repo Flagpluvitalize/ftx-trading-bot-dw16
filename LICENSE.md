@@ -1,4 +1,4 @@
-# 
+# smart ftx trading bot Module | low-frequency + grid-trading is the best ftx trading bot, featuring low-frequency and grid-trading. Smart, fast, and optimized for trading on
 
 
 
